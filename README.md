@@ -1,2 +1,2 @@
 # Turkish-Wordlist
-Türkçe Kelime Listesi
+Tdk kelime databaseini paylaşmadığından dolayı, çıkartılmış kelime dosyaları bütünü.
