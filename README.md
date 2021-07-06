@@ -1,2 +1,2 @@
 # Turkish-Wordlist
-Tdk kelime databaseini paylaşmadığından dolayı, çıkartılmış kelime dosyaları bütünü.
+Tdk'nin kelime databaseini açık olarak paylaşmamasından kaynaklı, çıkartılmış kelime dosyaları bütünü.
